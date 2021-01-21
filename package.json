@@ -1,0 +1,23 @@
+{
+  "name": "website-tutorial",
+  "version": "1.0.0",
+  "description": "This repository contains docs about how to make a website!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonrise-tk/website-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moonrise-tk/website-tutorial/issues"
+  },
+  "homepage": "https://github.com/moonrise-tk/website-tutorial#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
