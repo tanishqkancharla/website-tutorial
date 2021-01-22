@@ -24,3 +24,4 @@ As for the HTML/CSS, I'm going to stay true to my promise; you won't need to kno
 *What's Github, and how will we use it?*
 
 Github is basically like a Google Drive, OneDrive, or Dropbox, but for code. People all over the world use it for their programs and code. Then they can share these with other people or make it public to the world. A single project/website will be hosted in something called a **repository**. This entire website was made using this tutorial, by the way! The repository for this website is [here](https://github.com/moonrise-tk/website-tutorial). 
+
