@@ -1,5 +1,4 @@
-# Website Tutorial
-This repository contains docs about how to make a website!
+This repository contains docs about how to make a minimal website!
 
 We'll be making a website using [Github Pages](https://pages.github.com) and [11ty](https://www.11ty.dev). You will __not__ need to know how to program, to use this guide. However, if you do know HTML/CSS, you'll be able to use it to make your website a little more spiffy.
 
@@ -24,4 +23,20 @@ As for the HTML/CSS, I'm going to stay true to my promise; you won't need to kno
 *What's Github, and how will we use it?*
 
 Github is basically like a Google Drive, OneDrive, or Dropbox, but for code. People all over the world use it for their programs and code. Then they can share these with other people or make it public to the world. A single project/website will be hosted in something called a **repository**. This entire website was made using this tutorial, by the way! The repository for this website is [here](https://github.com/moonrise-tk/website-tutorial). 
+
+To set up your Github, sign up for an account [here](https://github.com), and [create your first repository](https://docs.github.com/en/github/getting-started-with-github/create-a-repo). Just follow the first part in the second tutorial; no need to commit your first change just yet. Feel free to name your repository whatever you want, but note that the url for your website (if you don't use your own domain) will be `https://your-username.github.io/your-repository-name`.
+
+Once that's created, your repository should look something like this (if you're lost, click on your avatar to navigate to your repositories):
+
+![Screen Shot 2021-01-22 at 3.32.20 PM](/Users/tanishqkancharla/Documents/Projects/website-tutorial/README.assets/Screen Shot 2021-01-22 at 3.32.20 PM.png)
+
+Great! Now we need to clone this repo to our computer and install 11ty.
+
+## Cloning the repo and installing 11ty
+
+*What do we do with this repository?*
+
+I said before that Github is like Google Drive. Continuing the analogy, "cloning" the repo is akin to downloading a file from Drive. We're going to clone the repo to our computer, create our website, and then 
+
+I should mention that this part might feel sketchy if you don't have much experience with the terminal/command line. If you don't want to mess with it, you can instead install the [Github desktop client](https://desktop.github.com) and follow the steps on there to clone your repo.
 
