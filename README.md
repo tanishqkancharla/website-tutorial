@@ -28,7 +28,7 @@ To set up your Github, sign up for an account [here](https://github.com), and [c
 
 Once that's created, your repository should look something like this (if you're lost, click on your avatar to navigate to your repositories):
 
-![Screen Shot 2021-01-22 at 3.32.20 PM](/Users/tanishqkancharla/Documents/Projects/website-tutorial/README.assets/Screen Shot 2021-01-22 at 3.32.20 PM.png)
+![Screen Shot 2021-01-22 at 3.32.20 PM](./README.assets/Screen Shot 2021-01-22 at 3.32.20 PM.png)
 
 Great! Now we need to clone this repo to our computer and install 11ty.
 
@@ -42,25 +42,25 @@ I should mention that this part might feel sketchy if you don't have experience 
 
 Ok so what we're gonna do is open up the Terminal. I believe it's called Command Line on Windows. Once you open it up, it should look something like this:
 
-<img src="/Users/tanishqkancharla/Documents/Projects/website tutorial/README.assets/Screen Shot 2021-01-22 at 3.52.31 PM.png" alt="Blank Terminal window" style="zoom:40%;" />
+<img src="./README.assets/Screen Shot 2021-01-22 at 3.52.31 PM.png" alt="Blank Terminal window" style="zoom:40%;" />
 
 Don't worry if the colors or other visual elements don't match; in general it should look like a mostly blank window with a cursor. The Terminal is basically a place to ask your computer to do stuff. We're gonna use it to clone the repo. First we want to make sure we navigate the Terminal to the folder we want to clone the repo into. If you type `pwd` and press enter, you can see where its located currently. If you type `ls` and press enter, the terminal will list out the folders you can go into:
 
-<img src="/Users/tanishqkancharla/Documents/Projects/website tutorial/README.assets/Screen Shot 2021-01-22 at 4.04.12 PM.png" alt="Terminal window with pwd command then ls command executed" style="zoom:40%;" />
+<img src="./README.assets/Screen Shot 2021-01-22 at 4.04.12 PM.png" alt="Terminal window with pwd command then ls command executed" style="zoom:40%;" />
 
 Great! Now let's navigate to where we want the repo to be located. For me, that's in `Documents/Projects`. This is done using the `cd` command followed by the folder you want to go into. 
 
-<img src="/Users/tanishqkancharla/Documents/Projects/website tutorial/README.assets/Screen Shot 2021-01-22 at 4.06.37 PM.png" alt="Terminal window with commands pwd, ls, cd Documents, ls, cd Projects executed in that order" style="zoom:40%" />
+<img src="./README.assets/Screen Shot 2021-01-22 at 4.06.37 PM.png" alt="Terminal window with commands pwd, ls, cd Documents, ls, cd Projects executed in that order" style="zoom:40%" />
 
 Now to clone the repo, go back to your Github repo. Click on the green "Code" button and then click on the clipboard icon to copy the URL.
 
- <img src="/Users/tanishqkancharla/Documents/Projects/website tutorial/README.assets/Screen Shot 2021-01-22 at 4.09.15 PM.png" alt="Green code button in Github" style="zoom:60%;margin:auto;display:block;" />
+ <img src="./README.assets/Screen Shot 2021-01-22 at 4.09.15 PM.png" alt="Green code button in Github" style="zoom:60%;margin:auto;display:block;" />
 
 
 
 Then go back to Terminal and type `git clone *your-github-repo-url*` so your computer starts downloading the Github repo:
 
-<img src="/Users/tanishqkancharla/Documents/Projects/website-tutorial/README.assets/Screen Shot 2021-01-22 at 4.18.44 PM-1350447.png" alt="Screen Shot 2021-01-22 at 4.18.44 PM" style="zoom:40%;" />
+<img src="./README.assets/Screen Shot 2021-01-22 at 4.18.44 PM-1350447.png" alt="Screen Shot 2021-01-22 at 4.18.44 PM" style="zoom:40%;" />
 
 You should have the repository now installed! If you check on your computer's file browser, you should see a folder with your repository's name wherever your terminal was when you installed it. Opening it should have the file `README.md`. The `md` extension here stands for Markdown.
 
